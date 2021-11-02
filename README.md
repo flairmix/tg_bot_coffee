@@ -1,4 +1,4 @@
-# tg_bot_cofee
+# tg_bot_coffee
 Simple telegram bot for manage queue people, who take a coffee today (funny staff)
 
 Bot for hosting on Replit.com.
