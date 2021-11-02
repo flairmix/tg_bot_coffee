@@ -6,3 +6,11 @@ Using Replit database
 
 Addition packages:
 - pyTelegramBotAPI -version 4.1.1
+
+
+version = 0.1
+version_date = "21/11/01"
+ - запись людей в список с датой - сегодня"
+ - вывод списка людей с датой "
+ - вывод очереди "
+ - сдвиг очереди вправо"
